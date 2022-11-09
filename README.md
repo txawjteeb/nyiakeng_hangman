@@ -12,4 +12,4 @@ Hangman game with Nyiakeng Puachue script
 <br />
 
 ### Hangman 𞄐𞄦𞄲𞄤𞄎𞄫𞄰 𞄚𞄧𞄲𞄤𞄔𞄬𞄱 Demo
-<img src="https://github.com/txawjteeb/hangman_nyiakeng/blob/main/hangman_nyiakeng_loser.png" alt="Hangman 𞄐𞄦𞄲𞄤𞄎𞄫𞄰 𞄚𞄧𞄲𞄤𞄔𞄬𞄱 Loser" width="600"/>
+<img src="https://github.com/txawjteeb/nyiakeng_hangman/blob/main/hangman_nyiakeng_loser.png" alt="Hangman 𞄐𞄦𞄲𞄤𞄎𞄫𞄰 𞄚𞄧𞄲𞄤𞄔𞄬𞄱 Loser" width="600"/>
